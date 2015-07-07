@@ -11,3 +11,4 @@ CardDAVSyncOutlook.jar
 CardDAVSyncOutlook.l4j.ini
 log.txt
 log.txt.lck
+/target/
